@@ -6,3 +6,4 @@ here are the points we are gonna to work out
 4.file operation
 5.GUI
 6.thread and its safety
+7.learn git
