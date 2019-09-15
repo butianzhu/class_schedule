@@ -60,6 +60,10 @@ Global a = 1
 
 布局：grid pack place
 
+master 父组件，frame一般认为master=None
+
+StringVar
+
 ## 线程
 
 ### threading
@@ -67,4 +71,15 @@ Global a = 1
 先创建，再start，join主线程，分线程结束后主线程才结束
 
 **线程安全**	
+
+## format函数
+
+## string转time
+
+```python
+from datetime import datetime
+def parse_ymd(s):
+    year_s, mon_s, day_s = s.split('-')
+    return datetime(int(year_s), int(mon_s), int(day_s))
+```
 
