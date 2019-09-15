@@ -54,6 +54,8 @@
 
    module_name, package_name, ClassName, method_name, ExceptionName, function_name, GLOBAL_VAR_NAME, instance_var_name, function_parameter_name, local_var_name.
 
+5. 函数传入的参数 _para_name
+
 # git
 
 1. git 回退
@@ -87,6 +89,8 @@ M	readme.txt
 ```
 
 3. -u参数：关联本地分支和远程分支
-
 4. git merge $branch_name 如果有冲突要手动解决(一般是两个分支有不同的提交内容)
 5. git branch -d $branch_name 删除分支
+6. git rm --cached $doc_name    删除文件（会影响到远程
+7. git branch --set-upstream-to=origin/$name
+
