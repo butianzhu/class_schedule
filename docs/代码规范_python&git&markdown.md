@@ -94,3 +94,7 @@ M	readme.txt
 6. git rm --cached $doc_name    删除文件（会影响到远程
 7. git branch --set-upstream-to=origin/$name
 
+# markdown
+
+链接格式：\[显示文字\]\(网址\)
+
