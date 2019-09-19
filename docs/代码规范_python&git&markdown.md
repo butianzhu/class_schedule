@@ -94,6 +94,7 @@ M	readme.txt
 6. git rm --cached $doc_name    删除文件（会影响到远程
 7. git branch --set-upstream-to=origin/$name
 8. git branch -vv     查看本地分支和远程分支的对应关系
+9. git pull <远程主机名> <远程分支名>:<本地分支名>
 
 # markdown
 
