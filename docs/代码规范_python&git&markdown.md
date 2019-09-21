@@ -100,3 +100,14 @@ M	readme.txt
 
 链接格式：\[显示文字\]\(网址\)
 
+不要用base64！！！！
+
+# mac
+
++ **窗口快速切换桌面**
+
+   defaults write com.apple.dock workspaces-edge-delay -float 0;killall Dock
+
+  defaults delete com.apple.dock workspaces-edge-delay;killall Dock
+
++ quick player可以录屏
