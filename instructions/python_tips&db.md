@@ -26,7 +26,7 @@ Global a = 1
 
 **切片**	L[0:3] 取列表L的前三个元素
 
-**foo&bar&baz**	意思就是张三李四王二麻子
+**foo&bar&baz**	意思就是张三李四王二麻子    
 
 ## 数据类型转换
 
@@ -203,6 +203,23 @@ limit: 传回记录数量
 各种函式
 
 ```
+
+mac mysql
+
+```
+启动MySQL服务
+sudo /usr/local/MySQL/support-files/mysql.server start
+
+停止MySQL服务
+sudo /usr/local/mysql/support-files/mysql.server stop
+
+重启MySQL服务
+sudo /usr/local/mysql/support-files/mysql.server restart
+```
+
+- Cashing_sha2_password error
+
+  [my.cnf添加mysql_native_password](https://stackoverflow.com/questions/50469587/django-db-utils-operationalerror-2059-authentication-plugin-caching-sha2-pas/53463299)
 
 
 

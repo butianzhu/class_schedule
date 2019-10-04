@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64b44f50-24b3-4987-90f8-421993424407" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Wei/tf/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wei/leading_end/dbtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Wei/leading_end/dbtest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/python_tips&amp;db.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python_tips&amp;db.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wei/leading_end/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Wei/leading_end/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wei/leading_end/web.md" beforeDir="false" afterPath="$PROJECT_DIR$/Wei/leading_end/web.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instructions/python_tips&amp;db.md" beforeDir="false" afterPath="$PROJECT_DIR$/instructions/python_tips&amp;db.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/signin-ok.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +22,13 @@
     <session id="-591348239">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -87,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wei/leading_end/dbtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="224">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -99,8 +105,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Wei/tf/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            <state relative-caret-position="112">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#82#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,9 +172,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="664" />
+    <option name="x" value="720" />
     <option name="y" value="23" />
-    <option name="width" value="776" />
+    <option name="width" value="720" />
     <option name="height" value="836" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -190,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,18 +216,23 @@
               <item name="class_schedule" type="b2602c69:ProjectViewProjectNode" />
               <item name="class_schedule" type="462c0819:PsiDirectoryNode" />
               <item name="Wei" type="462c0819:PsiDirectoryNode" />
+              <item name="leading_end" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="class_schedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="class_schedule" type="462c0819:PsiDirectoryNode" />
+              <item name="Wei" type="462c0819:PsiDirectoryNode" />
               <item name="tf" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -371,10 +386,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="664" y="23" width="776" height="836" extended-state="0" />
+    <frame x="720" y="23" width="720" height="836" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7419355" visible="true" weight="0.21854305" />
-      <window_info id="Structure" order="1" sideWeight="0.2580645" side_tool="true" visible="true" weight="0.21854305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7392473" visible="true" weight="0.2360515" />
+      <window_info id="Structure" order="1" sideWeight="0.26075268" side_tool="true" visible="true" weight="0.2360515" />
       <window_info id="Favorites" order="2" sideWeight="0.50240964" side_tool="true" weight="0.24947146" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -434,6 +449,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Wei/leading_end/dbtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Wei/leading_end/static/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="752">
@@ -444,20 +469,13 @@
     <entry file="file://$PROJECT_DIR$/Wei/leading_end/static/qbl.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wei/leading_end/dbtest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Wei/tf/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        <state relative-caret-position="112">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#82#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
